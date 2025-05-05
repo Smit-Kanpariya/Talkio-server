@@ -3,10 +3,10 @@
 
   "workbench.colorCustomizations": {
     // Set the title bar (top bar) color
-    "titleBar.activeBackground": "#000bde",
-    "titleBar.inactiveBackground": "#000bde",
+    "titleBar.activeBackground": "#95520e",
+    "titleBar.inactiveBackground": "#95520e",
 
     // Set the activity bar (side bar) color
-    "activityBar.background": "#333333"
+    "activityBar.background": "#95520e"
   }
 }
